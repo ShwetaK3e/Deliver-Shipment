@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Delivery</string>
+    <string name="action_settings">Settings</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+
+    <string name="nav_item_home">Home</string>
+    <string name="nav_item_delivery_list">Delivery List</string>
+    <string name="nav_blank"></string>
+    <string name="nav_log_out">Log Out</string>
+    <string-array name="nav_drawer_labels">
+        <item>@string/nav_blank</item>
+        <item>@string/nav_log_out</item>
+    </string-array>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+
+
+</resources>
